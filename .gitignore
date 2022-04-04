@@ -1,0 +1,4 @@
+.env
+venv
+config.json
+VuleBot.sqlite3
