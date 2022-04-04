@@ -1,0 +1,5 @@
+requests
+discord
+python-dotenv
+selenium
+async
