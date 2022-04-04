@@ -2,3 +2,5 @@
 config.json
 VuleBot.sqlite3
 /venv/
+err.log
+
